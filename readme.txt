@@ -5,7 +5,7 @@ Author: Theme Road
 Donate link: 
 Tags: custom post type with accordion, FAQ, faq list, FAQ Plugin, faq with accordion, FAQs, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin, drag and drop, modal,botstrap modal, 
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -24,7 +24,14 @@ Plugin Features !!!!!
 * Easy to Use.
 
 
-
+* [Our Premium Plugins](http://themeroad.net/)
+ * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+ * [TR Advanced Price Plan Pro](http://themeroad.net/product/tr-advanced-price-plan-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/product/woocommerce-image-zoom-pro/)
+ * [TR Carousel Slider Pro](http://themeroad.net/product/tr-carousel-slider-pro/)
+ * [TR Logo Slider Pro](http://themeroad.net/product/tr-logo-slider-pro/)
+ * [TR Filterable Portfolio Pro](http://themeroad.net/product/tr-filterable-portfolio-pro/)
+ * [TR Nice Accordion Pro](http://themeroad.net/product/tr-nice-accordion/)
 
 
 
