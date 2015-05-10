@@ -3,7 +3,7 @@ Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
-Tags: custom post type with accordion, FAQ, faq list, FAQ Plugin, faq with accordion, FAQs, frequently asked questions, jquery ui accordion, jquery-ui, shortcodes, wordpress, wordpress faq, WordPress Plugin, wp-faq with category,frequently asked questions, wordpress, wordpress faq, WordPress Plugin, drag and drop, modal,botstrap modal, 
+Tags: ecommerce product magnify plugin, image zoom, jquery picture zoom, photo zoom add on, picture zoom plugin, woocommerce product zoom, woocommerce zoom 
 Requires at least: 3.5
 Tested up to: 4.2.1
 Stable tag: 1.0
