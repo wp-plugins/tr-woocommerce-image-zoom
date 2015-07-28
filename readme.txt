@@ -41,7 +41,7 @@ Plugin Features
  * [TR Filterable Portfolio Pro](http://themeroad.net/Products/204/)
  * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
-
+Check details:
 
 == Installation ==
 
